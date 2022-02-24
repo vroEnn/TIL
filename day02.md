@@ -17,6 +17,6 @@ touch a.txt b.txt c.txt
 
 .gitignore 에 a.txt 추가 후 저장하면 무시 
 
-[ignore 찾기] (www.total.com)
+[ignore 찾기](www.total.com)
 - python, jupyternotebooks 입력 후 생성 
 - gitignore에 붙여넣기
