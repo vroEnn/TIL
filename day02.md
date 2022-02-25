@@ -11,7 +11,7 @@
 - git log --oneline
 
 ### .gitignore
-``` 
+
 touch .gitignore
 touch a.txt b.txt c.txt
 
