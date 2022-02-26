@@ -9,58 +9,22 @@
 - git config --global --list
 
 touch README.md
-파일 수정 : 마스터에서 작성1
+파일 수정 : 마스터에서 작성 1
 저장
-git add .
+git add . 
 git commit -m "first commit-master"
-======
+
+
 (master 브랜치에서)
 git branch test
 git switch test
-======
+
 (test 브랜치에서)
 파일 수정 : 테스트에서 작성 1
 저장
 git add .
 git commit -m "first commit-test"
 git switch master
-
-
-touch README.md
-파일 수정 : 마스터에서 작성1
-저장
-git add .
-git commit -m "first commit-master"
-======
-(master 브랜치에서)
-git branch test
-git switch test
-======
-(test 브랜치에서)
-파일 수정 : 테스트에서 작성 1
-저장
-git add .
-git commit -m "first commit-test"
-========
 (master 브랜치로 복귀)
 git switch master
 
-
-touch README.md
-파일 수정 : 마스터에서 작성1
-저장
-git add .
-git commit -m "first commit-master"
-======
-(master 브랜치에서)
-git branch test
-git switch test
-======
-(test 브랜치에서)
-파일 수정 : 테스트에서 작성 1
-저장
-git add .
-git commit -m "first commit-test"
-========
-(master 브랜치로 복귀)
-git switch master
