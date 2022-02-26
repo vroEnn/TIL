@@ -8,6 +8,7 @@
 - git config --global core.editor "code --wait
 - git config --global --list
 
+### 수정>저장>add>commit>push
 ```
 touch README.md
 파일 수정 : 마스터에서 작성 1
