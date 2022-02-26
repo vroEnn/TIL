@@ -8,6 +8,7 @@
 - git config --global core.editor "code --wait
 - git config --global --list
 
+```
 touch README.md
 파일 수정 : 마스터에서 작성 1
 저장
@@ -27,4 +28,4 @@ git commit -m "first commit-test"
 git switch master
 (master 브랜치로 복귀)
 git switch master
-
+```
