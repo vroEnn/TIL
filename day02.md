@@ -1,6 +1,6 @@
 
 ### 깃허브에 올리는 법 
-*ctrl+s  > add > commit > push*
+> *ctrl+s  > add > commit > push*
 - git add
 - git commit -m "0000"
 - git push origin master
@@ -9,7 +9,7 @@
 - git status
 - git log --oneline
 
-### .gitignore
+#### .gitignore
 
 touch .gitignore
 touch a.txt b.txt c.txt
@@ -19,6 +19,8 @@ touch a.txt b.txt c.txt
 [ignore 찾기](www.total.com)
 - python, jupyternotebooks 입력 후 생성 
 - gitignore에 붙여넣기
+
+
 
 ### 목차만들기 
 - GitHub에 보이는 목차는 링크를 상대경로로 지정하는 것 
