@@ -20,7 +20,7 @@ touch a.txt b.txt c.txt
 - python, jupyternotebooks 입력 후 생성 
 - gitignore에 붙여넣기
 
-
+---
 
 ### 목차만들기 
 - GitHub에 보이는 목차는 링크를 상대경로로 지정하는 것 
