@@ -21,6 +21,6 @@
 - Statistic
 - Deep Learning 
 
-##### 팀별 프로젝트
+##### 팀 프로젝트
 
 
